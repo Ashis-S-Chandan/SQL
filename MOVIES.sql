@@ -23,7 +23,7 @@ Insert Into movies values('Shang-Chi And The Legend Of The Ten Rings','Simu Liu,
 --1] Statement to query all rows from the Movies table 
 
 SELECT * 
-FROM MOVIES
+FROM MOVIES;
 
 -- 2]query with parameter like actor name to select movies based on the actor's name.
 SELECT MOVIENAME 
